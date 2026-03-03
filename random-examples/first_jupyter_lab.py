@@ -1,3 +1,5 @@
+# first_jupyter_lab.py
+
 from matplotlib import pyplot as plt
 import numpy as np
 
